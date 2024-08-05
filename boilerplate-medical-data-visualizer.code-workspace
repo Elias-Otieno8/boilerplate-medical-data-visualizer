@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "boilerplate-medical-data-visualizer",
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "freeCodeCamp Dark Theme"
+	}
+}
